@@ -11,6 +11,7 @@ Mapy i wykresy zamieszczone na tej stronie zostały stworzone są przy użyciu b
 ## Licencja
 
 Wszystkie zamieszczone w tym repozytorium grafiki są dostępne na licencji [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl).
+Można używać ich do celów niekomercyjnych, przerabiać je, zawsze jednak pamiętając o podaniu autora.
 
 ![licencja](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
 

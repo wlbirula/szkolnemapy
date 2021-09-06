@@ -18,5 +18,5 @@ Można używać ich do celów niekomercyjnych, przerabiać je, zawsze jednak pam
 ## Lista map
 |  |  | Tytuł mapy
 |:--------:| :--------:| --------|
-|VI| 1.| [Mapa świata do ćwiczenia współrzędnych geograficznych](mapa_swiata_do_wspolrzednych.md) |
+|VI| 1.| [Mapa świata do ćwiczenia współrzędnych geograficznych (Mercator)](mapa_swiata_do_wspolrzednych.md) |
 
